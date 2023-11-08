@@ -40,3 +40,14 @@
 .read-the-docs {
   color: #888;
 }
+
+.container{
+  border: 5px solid gray;
+  padding: 50px;
+  border-radius: 15px;
+}
+
+h1{
+  text-decoration: underline;
+  text-underline-offset: 15px;
+}
